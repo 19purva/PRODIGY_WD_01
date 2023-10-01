@@ -14,3 +14,7 @@ Navigation bar
 
 sticky navigation bar
 ![Screenshot (114)](https://github.com/19purva/PRODIGY_WD_01/assets/135506440/7c8bc874-4401-4ff5-8bbf-e2ef29819e66)
+
+
+responsive 
+![Screenshot (115)](https://github.com/19purva/PRODIGY_WD_01/assets/135506440/bde5c52c-0efe-4740-a02e-1977eed4f65b)
