@@ -8,6 +8,9 @@ such as changing the background color or font color of the menu when it is scrol
 
 This landing page is responsive for all device as well as there is sticky navigation bar.
 
-
+Navigation bar
 ![Screenshot (113)](https://github.com/19purva/PRODIGY_WD_01/assets/135506440/b9c09de1-8b78-4911-8f62-e8d85b036962)
+
+
+sticky navigation bar
 ![Screenshot (114)](https://github.com/19purva/PRODIGY_WD_01/assets/135506440/7c8bc874-4401-4ff5-8bbf-e2ef29819e66)
